@@ -1,0 +1,7 @@
+.idea/
+.DS_Store
+.hugo_build.lock
+
+# hugo build output
+public/
+resources/
